@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HRs5G7M+kZMNn293tQFqNYoo5NNyj0edFOPxWpGdodgLycPZwxbURYufVr1D5Zzfz12OArMyrvY7pqrKTrmq2A==",
+  "success": true,
+  "projectFilePath": "E:\\dotnet\\Microservices\\Microservices\\Microservices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dkweb\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
