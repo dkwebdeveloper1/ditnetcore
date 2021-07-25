@@ -9,7 +9,6 @@ E:\dotnet\Microservices\Microservices\bin\Debug\net5.0\ref\Microservices.dll
 E:\dotnet\Microservices\Microservices\bin\Debug\net5.0\Microservices.pdb
 E:\dotnet\Microservices\Microservices\bin\Debug\net5.0\Microservices.Views.dll
 E:\dotnet\Microservices\Microservices\bin\Debug\net5.0\Microservices.Views.pdb
-E:\dotnet\Microservices\Microservices\obj\Debug\net5.0\Microservices.csproj.AssemblyReference.cache
 E:\dotnet\Microservices\Microservices\obj\Debug\net5.0\Microservices.GeneratedMSBuildEditorConfig.editorconfig
 E:\dotnet\Microservices\Microservices\obj\Debug\net5.0\Microservices.AssemblyInfoInputs.cache
 E:\dotnet\Microservices\Microservices\obj\Debug\net5.0\Microservices.AssemblyInfo.cs
