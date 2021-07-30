@@ -15,10 +15,6 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- task: Docker@2
-  inputs:
-    command: 'buildAndPush'
-    Dockerfile: '**/Dockerfile'
 
 - task: NuGetCommand@2
   inputs:
